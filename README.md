@@ -1,4 +1,5 @@
 BIM Workshop Syllabus
+
 Motivative & Objective
 This lecture is designed to simulate the construction of a simplified building facade using TICO blocks, akin to small LEGO pieces, with the aim of helping participants grasp the architecture-construction-engineering (ACE) process. The workshop will consist of four sections: an introduction, role-playing exercises involving developers, architects, and consultants, the design process, creating scaled models, and concluding with a life cycle assessment of building components in the end of the lecture. 
 Upon completion of this class, participants will acquire an acknowledge of the exchange of information between various architectural sectors, the fundamentals of building components, techniques for design optimisation, and concepts related to the life cycle assessment.
